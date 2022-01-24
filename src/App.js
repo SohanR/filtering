@@ -1,4 +1,5 @@
 import { Component } from 'react';
+import './app.css';
 import { CardList } from './components/cardList/cardList';
 import SearchBox from './components/searchBox/searchBox';
 
@@ -27,6 +28,7 @@ render() {
 
   return(
       <div className="App">
+        <h1>Filtering</h1>
         <SearchBox
           placeholder='Search Monsters'
           handleChange={ e => {
