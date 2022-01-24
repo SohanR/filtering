@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACN,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,IAAI;EACb,OAAO,EAAE,IAAI;EACb,KAAK,EAAE,KAAK;EACZ,WAAW,EAAE,IAAI;EACjB,aAAa,EAAE,IAAI;EACnB,UAAU,EAAE,MAAM;CACnB",
+    "sources": [
+        "searchBox.scss"
+    ],
+    "names": [],
+    "file": "searchBox.css"
+}
